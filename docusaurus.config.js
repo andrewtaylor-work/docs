@@ -116,6 +116,15 @@ const config = {
             ],
           },
           {
+            title: 'Blog',
+            items: [
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
+            ],
+          },
+          {
             title: 'More',
             items: [
               {
