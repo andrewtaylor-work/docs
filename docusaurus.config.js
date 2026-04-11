@@ -20,7 +20,7 @@ const config = {
   },
 
   // Set the production url of your site here
-  url: 'www.docs.andrewtaylor.work',
+  url: 'https://docs.andrewtaylor.work/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -137,7 +137,7 @@ const config = {
             items: [
               {
                 label: 'Home',
-                to: 'www.andrewtaylor.work',
+                to: 'https://docs.andrewtaylor.work/',
               },
               {
                 label: 'GitHub',
