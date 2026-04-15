@@ -1,0 +1,25 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+  margin: 1.5rem 0;
+}
+
+.card {
+  background: var(--ifm-color-emphasis-100);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+}
+
+.label {
+  font-weight: 600;
+  font-size: 14px;
+  margin: 0 0 4px;
+}
+
+.desc {
+  font-size: 13px;
+  color: var(--ifm-color-emphasis-700);
+  margin: 0;
+  line-height: 1.5;
+}
